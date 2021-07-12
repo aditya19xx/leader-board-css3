@@ -152,6 +152,15 @@ height: 117px;
        border-radius: 15px;
        padding: 5px;
    }
+   footer{
+       background-color: black;
+       height: 80px;
+   }
+   .footer-text{
+       text-align: center;
+       color: white;
+       padding-top: 30px;
+   }
 
    /*-----------------
     Media Queries 
